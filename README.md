@@ -38,6 +38,7 @@ $ sudo make install
 - [顔検出](https://github.com/syamgot/cpp-opencv-tutorials/tree/master/face_detect)
 - [インペインティング(画像補完)](https://github.com/syamgot/cpp-opencv-tutorials/tree/master/inpaint)
 - [マスク処理](https://github.com/syamgot/cpp-opencv-tutorials/tree/master/mask)
+- [モザイク処理](https://github.com/syamgot/cpp-opencv-tutorials/tree/master/mosaic)
 - [グレースケール変換](https://github.com/syamgot/cpp-opencv-tutorials/tree/master/rgb2gray)
 - [2値化](https://github.com/syamgot/cpp-opencv-tutorials/tree/master/threshold)
 
