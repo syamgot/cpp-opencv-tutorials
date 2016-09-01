@@ -27,14 +27,28 @@ $ sudo make -j5
 $ sudo make install
 ```
 
-## Xcodeのセッティング
+## 一覧
 
-- ターゲットを選択してBuild Settingタブを選択する。
-- "Header Search Paths"で検索して"/usr/local/include"を追加する。
-- "Library Search Paths"で検索して"/usr/local/lib"を追加する。
-- Build Phasesタブを選択する。
-- Link Binary With Librariesを開いて必要なdylibを追加する。
-- +で選択ウィンドウを開き、Add Othersをクリックする。
-- ⌘+Gで"/usr/local/lib"へ移動する。
-- 必要なdylibを追加する。
+### 編集
 
+- [読み込み](https://github.com/syamgot/cpp-opencv-tutorials/read)
+- [書き込み](https://github.com/syamgot/cpp-opencv-tutorials/write)
+- [貼り付け](https://github.com/syamgot/cpp-opencv-tutorials/paste)
+- [ピクセルの操作](https://github.com/syamgot/cpp-opencv-tutorials/access_to_pixel)
+- [顔検出](https://github.com/syamgot/cpp-opencv-tutorials/face_detect)
+- [インペインティング(画像補完)](https://github.com/syamgot/cpp-opencv-tutorials/inpaint)
+- [マスク処理](https://github.com/syamgot/cpp-opencv-tutorials/mask)
+- [グレースケール変換](https://github.com/syamgot/cpp-opencv-tutorials/rgb2gray)
+- [2値化](https://github.com/syamgot/cpp-opencv-tutorials/threshold)
+
+### GUI
+
+- [トラックバー](https://github.com/syamgot/cpp-opencv-tutorials/trackbar)
+
+### 描画
+
+- [線分描画](https://github.com/syamgot/cpp-opencv-tutorials/line)
+
+### 動画
+
+- [背景差分(MoG)による移動物体検出](https://github.com/syamgot/cpp-opencv-tutorials/bgsub_mog2)
